@@ -12,4 +12,6 @@ There is an interactive link under the QR code, subscribe ;)
 # Technology:
 HTML and CSS for layout and design.
 JavaScript for QR code generation and interactivity.
-QR Code Generator is a handy tool for developers and users who often work with QR codes and need an easy way to share links.
+
+# For respect subscribe: 
+https://t.me/its4jesus
