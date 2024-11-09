@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code Generator</title>
+    <style>
+        body {
+            background-color: #1e1e1e; 
+            color: #f5f5f5; 
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        .qr-container {
+            background-color: #333; 
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .qr-container h2 {
+            font-size: 1.8em;
+            color: #f5f5f5;
+            margin: 0 0 15px 0; 
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); 
+        }
+
+        #qr-code {
+            background-color: #333;
+            padding: 10px;
+        }
+
+        .subscribe-link {
+            display: block;
+            margin-top: 20px;
+            font-size: 1em;
+            color: #f5f5f5;
+            text-decoration: none;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+
+        .subscribe-link:hover {
+            color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+    <div class="qr-container">
+        <h2>QR Code</h2>
+        <div id="qr-code"></div>
+        <a href="https://t.me/its4jesus" class="subscribe-link" target="_blank">For respect, subscribe</a>
+    </div>
+
+    <script src="qrcode.min.js"></script>
+    <script src="popup.js"></script>
+</body>
+</html>
