@@ -1,8 +1,7 @@
 # QRCodeBrowserGenerator
 A browser extension that allows you to generate a QR code for the current page URL.
 
-# For respect subscribe 
-https://t.me/its4jesus
+[For respect subscribe](https://t.me/its4jesus)
 
 # Description for the extension
 QR Code Generator is a simple web application that allows you to create a QR code for the current page. This can be useful for quickly transferring a link to a mobile device or for easy link sharing.
