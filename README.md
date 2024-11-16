@@ -47,7 +47,5 @@ To install this QR Code Generator extension in your browser, you will need to do
 
 • The page will show the QR code for the current URL and you can scan it with your mobile device.
 
-• There will also be a “For respect subscribe” link below the QR code, leading to the specified Telegram channel.
-
 # Note
 This extension is installed as a local developer extension, so it will not update automatically. If you update the files, simply reload the extension on the chrome://extensions page to update.
