@@ -11,13 +11,6 @@ QR Code Generator is a simple web application that allows you to create a QR cod
 
 • Open `index.html` in a browser to generate a QR code of the current page.
 
-• There is an interactive link under the QR code, subscribe ;)
-
-# Technology
-• HTML and CSS for layout and design.
-
-• JavaScript for QR code generation and interactivity.
-
 # Instructions for installing the QR Code Generator extension in your browser
 To install this QR Code Generator extension in your browser, you will need to download it as a developer extension. Here are the step-by-step instructions for installing it in Chrome and Chromium-based browsers (like Edge or Opera):
 
