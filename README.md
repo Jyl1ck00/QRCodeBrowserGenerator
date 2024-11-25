@@ -1,4 +1,4 @@
-# QRCodeBrowserGenerator
+# QRCode-Browser-Generator
 A browser extension that allows you to generate a QR code for the current page URL.
 
 [For respect, subscribe](https://t.me/its4jesus)
